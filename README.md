@@ -8,12 +8,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFFFFF&background=FFFFFF00&center=false&vCenter=true&width=1000&height=50&duration=4000&lines=Нолики+и+единички+бегают,+чтобы+ты+мог+порнушку+со+своего+смартфона+смотреть"></a>
 </h1>
 
-<p align="center">
+<div align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansavrikov&layout=compact&theme=radical">
        <img width="45%" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansavrikov&layout=compact&theme=radical"/></a>
    <a href="https://github-readme-stats.vercel.app/api?username=ivansavrikov&show_icons=true&count_private=true&theme=radical&hide_rank=true">
        <img width="45%" height="250" src="https://github-readme-stats.vercel.app/api?username=ivansavrikov&show_icons=true&count_private=true&theme=radical&hide_rank=true"/</a>
-</p>
+</div>
 
 <pre>  
 xxxxxxxxxxxxxxxxxxkkkkkkkxxxkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkOOOOOOOkkOOOOkOOOkkkkkkkkkkkkkkkkkkkkxxxxxxxxxxdddddddddddddd
