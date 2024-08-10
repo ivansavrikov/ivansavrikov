@@ -15,6 +15,10 @@
        <img width="45%" height="250" src="https://github-readme-stats.vercel.app/api?username=ivansavrikov&show_icons=true&count_private=true&theme=radical&hide_rank=true"/</a>
 </div>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <pre>  
 xxxxxxxxxxxxxxxxxxkkkkkkkxxxkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkOOOOOOOkkOOOOkOOOkkkkkkkkkkkkkkkkkkkkxxxxxxxxxxdddddddddddddd
 dxxxxxxxxxxxxxxxxkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkkkkkkkkkkkkkkkkkkxxxxxxxxxxdddddddddddddd
